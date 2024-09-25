@@ -1,0 +1,11 @@
+//
+// Created by mathe on 24/11/2021.
+//
+
+#ifndef PROJETCLUEDO_GROUPE3F_SAUVETAGE_CHARGEMENTPOLICE_H
+#define PROJETCLUEDO_GROUPE3F_SAUVETAGE_CHARGEMENTPOLICE_H
+#include <iostream>
+#include <SFML/Graphics.hpp>
+void loadFont(sf::Font &font);
+
+#endif //PROJETCLUEDO_GROUPE3F_SAUVETAGE_CHARGEMENTPOLICE_H
