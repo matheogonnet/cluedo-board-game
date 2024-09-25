@@ -1,0 +1,47 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# SFML libraries (adjust the path according to your setup)
+# You may want to adjust these paths if you include SFML in your repo
+/SFML-2.6.1-windows-vc17-64-bit/SFML-2.6.1/lib/*
+/SFML-2.6.1-windows-vc17-64-bit/SFML-2.6.1/include/*
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Makefile
+cmake_install.cmake
+*.cmake
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*~
+*.bak
+
+# Miscellaneous files
+*.swp
+*.DS_Store
+Thumbs.db
